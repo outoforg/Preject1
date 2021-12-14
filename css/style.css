@@ -256,7 +256,7 @@ header {
     background:url("../img/bg_slilder-1.jpg") ;
     background-attachment:fixed;
     background-size:cover;
-    height: 670px;
+   
     color: #fff;
     transition: all 0.35s ease 0s;
     -webkit-transition: all 0.35s ease 0s;
